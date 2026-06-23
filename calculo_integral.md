@@ -6,11 +6,11 @@ Hasta ahora hemos trabajando varios ejemplos con la siguiente fórmula:
 $$
 {\displaystyle \int x^n dx = \frac{x^{n+1}}{n+1} + C}
 $$
-Esta fórmula no se debe aplicar cuando ${x = -1}$ . Para los casos en los que el valor de ${n}$ de la variable es $-1$, utilizamos la siguiente fórmula:
+Esta fórmula no se debe aplicar cuando ${x = -1}$ . Para los casos en los que el valor de $n$ de la variable es $-1$, utilizamos la siguiente fórmula:
 $$ \displaystyle \int \frac{dv}{v} = \ln|v| + C
 $$
 
-Y aplicamos los conocimientos algebraicos que tenemos como identidades trigonométricas o reglas de exponentes, según sea el caso. A continuación veremos algunos [[##ejemplosdvsobrev|ejemplos sobre esta fórmula]].
+Y aplicamos los conocimientos algebraicos que tenemos (como leyes de los exponentes o identidades trigonométricas, según sea el caso) para transformar la expresión antes de integrar. A continuación veremos algunos [ejemplos sobre esta fórmula].(#ejemplos).
 
 ---
 ## Ejemplos
