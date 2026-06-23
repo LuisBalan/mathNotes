@@ -5,6 +5,8 @@ description: Notas de clase y ejercicios de cálculo integral.
 # Configuración del Motor de Markdown
 markdown: kramdown
 kramdown:
+  input: GFM        # Forzar el formato de GitHub Flavored Markdown
+  hard_wrap: true
   math_engine: mathjax
 
 # Tema oficial de GitHub Pages que soporta personalización estándar
