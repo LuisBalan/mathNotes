@@ -1,0 +1,11 @@
+# Información del Sitio
+title: Math Notes
+description: Notas de clase y ejercicios de cálculo integral.
+
+# Configuración del Motor de Markdown
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# Tema oficial de GitHub Pages que soporta personalización estándar
+theme: jekyll-theme-primer
