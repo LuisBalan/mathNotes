@@ -6,7 +6,7 @@ Hasta ahora hemos trabajando varios ejemplos con la siguiente fórmula:
 $$
 {\displaystyle \int x^n dx = \frac{x^{n+1}}{n+1} + C}
 $$
-Esta fórmula no se debe aplicar cuando ${x = -1}$ . Para los casos en los que el valor de $n$ de la variable es $-1$, utilizamos la siguiente fórmula:
+Esta fórmula no se debe aplicar cuando $n$ es igual a $-1$ . Para los casos en los que el valor de $n$ de la variable es $-1$, utilizamos la siguiente fórmula:
 $$ \displaystyle \int \frac{dv}{v} = \ln|v| + C
 $$
 
