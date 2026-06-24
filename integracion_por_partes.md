@@ -9,13 +9,13 @@ $$
 {\displaystyle \int udv = uv - \int vdu}
 $$
 
-Y su correcta aplicación depende de elegir adecuadamente a las funciones $u$ y $v$ .
+Y su correcta aplicación depende de elegir adecuadamente a las funciones \(u\) y \(v\) .
 
 # Ejercicios
 
 En las siguientes integrales hacer lo siguientes:
-- Analizar los diferentes casos posibles $u$ y $v$.
-- Construir las dos posibles integrales de acuerdo a la elección de $u$ y $v$.
+- Analizar los diferentes casos posibles \(u\) y \(v\).
+- Construir las dos posibles integrales de acuerdo a la elección de \(u\) y \(v\).
 - Resolver la integral que parezca más simple o que dé un resultado más adecuado.
 s
 1. $${\displaystyle \int x^2 \sin (x) dx}$$
