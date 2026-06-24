@@ -9,7 +9,7 @@ $$
 {\displaystyle \int udv = uv - \int vdu}
 $$
 
-Y su correcta aplicación depende de elegir adecuadamente a las funciones ${\displaystyle u}$ y ${\displaystyle v}$ .
+Y su correcta aplicación depende de elegir adecuadamente a las funciones $u$ y $v$ .
 
 # Ejercicios
 
