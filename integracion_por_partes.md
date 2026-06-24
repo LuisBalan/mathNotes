@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml.min.js" id="MathJax-script" async></script>
+
 ## Integración por partes
 La integración por partes es necesaria cuando no podemos aplicar ninguna de las técnicas anteriores, o aquellas para las que existe una "formula directa de integración".
 
