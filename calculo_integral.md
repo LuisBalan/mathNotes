@@ -42,3 +42,68 @@ $$\int \tan(t) \, dt$$
 
 3. $${\displaystyle \int \frac{\csc^2{(2t)}}{1 + \cot{(2t)}}}dt$$
 4. $$\displaystyle \int\frac{e^w + 2\sin w \cos w}{e ^w + \sin^2 w}dw$$
+
+---
+## Integración por partes
+La integración por partes es necesaria cuando no podemos aplicar ninguna de las técnicas anteriores, o aquellas para las que existe una "formula directa de integración".
+
+La fórmula o método para integrar por partes, sigue el siguiente patrón:
+
+$$
+{\displaystyle \int udv = uv - \int vdu}
+$$
+
+Y su correcta aplicación depende de elegir adecuadamente a las funciones ${\displaystyle u}$ y ${\idsplaystyle v}$
+
+# Ejercicios
+
+En las siguientes integrales hacer lo siguientes:
+1. Analizar los diferentes casos posibles $u$ y $v$.
+2. Construir las dos posibles integrales de acuerdo a la elección de $u$ y $v$.
+3. Resolver la integral que parezca más simple o que dé un resultado más adecuado.
+---
+1.
+$$
+{\displaystyle \int x^2 \sin (x) dx}
+$$
+
+2.
+$$
+{\displaystyle \int e^x \sin (x) dx}
+$$
+
+3.
+$$
+{\displaystyle \int (t-3) \cos(t-3)dt}
+$$
+
+4.
+$$
+\displaystyle \int t \sqrt{t + 1}dt
+$$
+
+5.
+$$
+\displaystyle \int \frac{\ln (w)}{w^2}dw
+$$
+
+6.
+$$
+\displaystyle \int t \sqrt[3]{2t +7}dt
+$$
+
+7.
+$$
+\displaystyle \int z^3 \ln z dz
+
+$$
+
+8.
+$$
+\displaystyle \int \ln(7r^5)dr
+$$
+
+9.
+$$
+\displaystyle \int t \sec^2 (t)dt
+$$
