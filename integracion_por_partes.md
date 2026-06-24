@@ -14,9 +14,9 @@ Y su correcta aplicación depende de elegir adecuadamente a las funciones $u$ y 
 # Ejercicios
 
 En las siguientes integrales hacer lo siguientes:
-1. Analizar los diferentes casos posibles $u$ y $v$.
-2. Construir las dos posibles integrales de acuerdo a la elección de $u$ y $v$.
-3. Resolver la integral que parezca más simple o que dé un resultado más adecuado.
+- Analizar los diferentes casos posibles $u$ y $v$.
+- Construir las dos posibles integrales de acuerdo a la elección de $u$ y $v$.
+- Resolver la integral que parezca más simple o que dé un resultado más adecuado.
 ----
 1. $${\displaystyle \int x^2 \sin (x) dx}$$
 
