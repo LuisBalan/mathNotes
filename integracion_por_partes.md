@@ -26,8 +26,7 @@ $$
 {\displaystyle \int e^x \sin (x) dx}
 $$
 
-3.
- $
+3. $$
 {\displaystyle \int (t-3) \cos(t-3)dt}
 $$
 
