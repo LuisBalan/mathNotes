@@ -17,7 +17,7 @@ En las siguientes integrales hacer lo siguientes:
 - Analizar los diferentes casos posibles \(u\) y \(v\).
 - Construir las dos posibles integrales de acuerdo a la elección de \(u\) y \(v\).
 - Resolver la integral que parezca más simple o que dé un resultado más adecuado.
-s
+
 1. $${\displaystyle \int x^2 \sin (x) dx}$$
 
 2. $${\displaystyle \int e^x \sin (x) dx}$$
