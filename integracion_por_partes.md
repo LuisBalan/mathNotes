@@ -35,3 +35,15 @@ En las siguientes integrales hacer lo siguientes:
 8. $${\displaystyle \int \ln(7r^5)dr}$$
 
 9. $${\displaystyle \int t \sec^2 (t)dt}$$
+
+# Integración por partes con integrales recursivas
+
+En las siguientes integrales, es necesario aplicar el proceso de integración por partes más de una vez:
+
+1. $${\displaystyle \int x^2 e^{x} dx}$$
+2. $${\displaystyle \int x^2 \sin{(x)} dx}$$
+3. $${\displaystyle \int x^2 \ln{(x)} dx}$$
+
+El siguiente ejemplo es un poco diferente:
+4. $${\displaystyle \int e^x \sin{(x)} dx}$$
+5. $${\displaystyle \int e^x \cos{(x)} dx}$$
